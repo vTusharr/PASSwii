@@ -18,7 +18,7 @@ Enter PASSwii
 - **Multiple Lengths**: Get password suggestions in various lengths (original length + 16, 24, 32 characters)
 - **Batch Processing**: Check multiple passwords at once
 
-## 🔧 Installation
+## Installation
 
 ### Prerequisites
 - Python 3.13 or higher
@@ -83,14 +83,14 @@ the longer the pass you set , the better
 
 
 
-## 🔐 Security Features
+## Security Features
 
 - **No Network Exposure**: Full passwords never leave your machine
 - **K-Anonymity Protocol**: Uses the industry-standard approach for secure breach checking
 - **Post-Quantum Ready**: Generated passwords use quantum-resistant cryptographic techniques
 - **Memory Safe**: Passwords are handled securely in memory
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch 
@@ -99,21 +99,11 @@ the longer the pass you set , the better
 5. Open a Pull Request
 
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [HaveIBeenPwned](https://haveibeenpwned.com/) for providing the breach detection API
 - [quantcrypt](https://github.com/quantcrypt/quantcrypt) for post-quantum cryptographic functions
-- The "wii wii cat" meme for the inspiration and name 🐱
 
-## ⚠️ Disclaimer
-
-While passwii uses secure methods to check password breaches and generate strong passwords, no tool can guarantee 100% security. Always follow good password hygiene practices:
-
-- Use unique passwords for each account
-- Enable two-factor authentication where possible
-- Regularly update passwords for sensitive accounts
-- Store passwords in a reputable password manager
-
----
 
 Made with ❤️ and  randomness
+
