@@ -18,7 +18,7 @@ Enter PASSwii
 - **Multiple Lengths**: Get password suggestions in various lengths (original length + 16, 24, 32 characters)
 - **Batch Processing**: Check multiple passwords at once
 
-## Installation
+## Quick Start
 
 ### Prerequisites
 - Python 3.13 or higher
@@ -106,6 +106,7 @@ the longer the pass you set , the better
 
 
 Made with ❤️ and  randomness
+
 
 
 
